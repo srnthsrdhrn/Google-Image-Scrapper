@@ -21,6 +21,6 @@ The python file will accept three arguments:
 `--keywords_file`: This is the location of the csv file which contains the keywords in Space Delimited format
 
 
-###Basic usage:
+### Basic usage:
 
 `python scrapper.py`
